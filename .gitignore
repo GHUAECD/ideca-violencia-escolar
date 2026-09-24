@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Entornos y secretos
+.venv/
+venv/
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Datos locales: no excluye artefactos .pkl
+data/*.xlsx
+data/*.xls
+data/*.csv
+data/*.parquet
+!data/README.md

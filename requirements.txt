@@ -1,0 +1,49 @@
+altair==5.5.0
+attrs==25.4.0
+blinker==1.9.0
+cachetools==6.2.1
+certifi==2025.10.5
+charset-normalizer==3.4.4
+click==8.3.0
+colorama==0.4.6
+et_xmlfile==2.0.0
+gitdb==4.0.12
+GitPython==3.1.45
+idna==3.11
+imbalanced-learn @ file:///C:/b/abs_d1hr2znu7o/croot/imbalanced-learn_1756460314059/work
+Jinja2==3.1.6
+joblib @ file:///C:/miniconda3/conda-bld/joblib_1757926375805/work
+jsonschema==4.25.1
+jsonschema-specifications==2025.9.1
+MarkupSafe==3.0.3
+mkl-service==2.5.2
+mkl_fft @ file:///C:/b/abs_64riv3lfyn/croot/mkl_fft_1751310924052/work
+mkl_random @ file:///C:/b/abs_47jvsmau4j/croot/mkl_random_1751310922820/work
+narwhals==2.8.0
+numpy @ file:///C:/miniconda3/conda-bld/numpy_and_numpy_base_1760547751270/work/dist/numpy-2.3.3-cp311-cp311-win_amd64.whl#sha256=5f6f978040468dbac12faf9e5b24dc95acff36622acfc28b2e5e7b3347361b75
+openpyxl==3.1.5
+packaging==25.0
+pandas==2.3.3
+pillow==11.3.0
+protobuf==6.32.1
+pyarrow==21.0.0
+pydeck==0.9.1
+python-dateutil==2.9.0.post0
+pytz==2025.2
+referencing==0.37.0
+requests==2.32.5
+rpds-py==0.27.1
+scikit-learn @ file:///C:/miniconda3/conda-bld/scikit-learn_1758619648094/work
+scipy @ file:///C:/miniconda3/conda-bld/scipy_1759489070186/work/dist/scipy-1.16.2-cp311-cp311-win_amd64.whl#sha256=3508ab5841192f24b66c11b0873abf889a5df612a0308b4fe4e0fbf5abdaa6f9
+six==1.17.0
+smmap==5.0.2
+streamlit==1.50.0
+tenacity==9.1.2
+threadpoolctl @ file:///C:/b/abs_def0dwqlft/croot/threadpoolctl_1719407816649/work
+toml==0.10.2
+tornado==6.5.2
+typing_extensions==4.15.0
+tzdata==2025.2
+urllib3==2.5.0
+watchdog==6.0.0
+xgboost @ file:///C:/b/abs_d97hy_84m6/croot/xgboost-split_1749630932152/work/python-package

@@ -1,0 +1,14 @@
+#[theme]
+#base="light"
+#primaryColor="#f87171"              # Rojo claro principal
+#backgroundColor="#ffffff"           # Fondo blanco
+#secondaryBackgroundColor="#fde8e8"  # Gris → rojo claro suave
+#textColor="#000000"                 # Texto negro
+
+
+[theme]
+base="dark"
+primaryColor="#F63366"
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"
